@@ -1,0 +1,64 @@
+{
+  "term": "Fall",
+  "year": "2004",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Earth Science",
+      "Atmospheric Science"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Oceanography"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Fluid Mechanics"
+    ],
+    [
+      "Engineering",
+      "Ocean Engineering",
+      "Hydrodynamics"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geophysics"
+    ]
+  ],
+  "legacy_uid": "aa34327f-12d2-7e8c-145c-6e21c26d64f8",
+  "instructors": {
+    "content": [
+      "e29c2293-5a4c-8913-624b-400e4d9f840f"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "f8ee3062-267f-f336-ff8b-62a803b1f253",
+    "website": "12-800-fluid-dynamics-of-the-atmosphere-and-ocean-fall-2004"
+  },
+  "course_title": "Fluid Dynamics of the Atmosphere and Ocean",
+  "course_description": "This class introduces fluid dynamics to first year graduate students. The aim is to help students acquire an understanding of some of the basic concepts of fluid dynamics that will be needed as a foundation for advanced courses in atmospheric science, physical oceanography, ocean engineering, etc. The emphasis will be on fluid fundamentals, but with an atmosphere/ocean twist.\n",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "12.800",
+  "course_image_thumbnail": {
+    "content": "b9d5a3b4-32b0-a539-17e3-8dfe30696969",
+    "website": "12-800-fluid-dynamics-of-the-atmosphere-and-ocean-fall-2004"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "site_uid": "8721a604-402b-41f3-9ea2-e8966dfa670a",
+  "site_short_id": "12.800-fall-2004",
+  "site_url_path": "courses/12-800-fluid-dynamics-of-the-atmosphere-and-ocean-fall-2004",
+  "title": "Course Metadata"
+}
