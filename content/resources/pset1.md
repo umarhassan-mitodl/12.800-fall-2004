@@ -4,6 +4,8 @@ description: Homework assignment.
 file: /courses/12-800-fluid-dynamics-of-the-atmosphere-and-ocean-fall-2004/19be5548fbeeb0cf97e752488ec6a98d_pset1.pdf
 file_size: 18423
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: Collection of some special executable files.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 ocw_type: CourseSection

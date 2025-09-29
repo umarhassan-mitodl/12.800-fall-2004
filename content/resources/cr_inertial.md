@@ -4,6 +4,8 @@ description: A grapg
 file: /courses/12-800-fluid-dynamics-of-the-atmosphere-and-ocean-fall-2004/9029e071ff24b047d7f180c3d52e678c_cr_inertial.jpg
 file_size: 40503
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

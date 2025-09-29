@@ -4,6 +4,8 @@ description: Lecture handout.
 file: /courses/12-800-fluid-dynamics-of-the-atmosphere-and-ocean-fall-2004/df1b6591f0a93bba0c56ba7735efb057_price_coriolis.pdf
 file_size: 313219
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

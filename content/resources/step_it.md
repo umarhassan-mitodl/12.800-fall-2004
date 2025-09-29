@@ -4,6 +4,8 @@ description: Supporting MATLAB? file.
 file: /courses/12-800-fluid-dynamics-of-the-atmosphere-and-ocean-fall-2004/3cb226fa7ff88402d173ced31072ef1d_step_it.m
 file_size: 1056
 file_type: text/plain
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
