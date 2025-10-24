@@ -5,8 +5,6 @@ description: Zip file containing kinematic example of how each component of the 
 file: /courses/12-800-fluid-dynamics-of-the-atmosphere-and-ocean-fall-2004/6e62e1db2d9cff5f8224bdbb2f3f9ed4_gexample2.zip
 file_size: 733671
 file_type: application/zip
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

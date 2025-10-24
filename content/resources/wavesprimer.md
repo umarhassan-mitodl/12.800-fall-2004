@@ -4,8 +4,6 @@ description: Lecture handout.
 file: /courses/12-800-fluid-dynamics-of-the-atmosphere-and-ocean-fall-2004/6aae0ce58d9d0548af482b517ffe591c_wavesprimer.pdf
 file_size: 81489
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

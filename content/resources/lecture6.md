@@ -4,8 +4,6 @@ description: Brief outline of topics covered in the lecture.
 file: /courses/12-800-fluid-dynamics-of-the-atmosphere-and-ocean-fall-2004/db2c647b80926c8b2c6edc3577b65f88_lecture6.pdf
 file_size: 85638
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
