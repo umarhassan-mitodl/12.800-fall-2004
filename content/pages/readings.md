@@ -12,7 +12,7 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
-The handouts from [Jim Price](http://www.whoi.edu/sbl/liteSite.do?litesiteid=8232)  (Sr. Scientist, Woods Hole Oceanographic Institution) used in the lecture notes section of this course are now available as an online publication:  [*Topics in Fluid Dynamics*](/courses/res-12-001-topics-in-fluid-dynamics-fall-2023/).
+The handouts from {{% resource_link "42802e17-23e3-448b-bacd-7d60b035a0c8" "Jim Price" %}}  (Sr. Scientist, Woods Hole Oceanographic Institution) used in the lecture notes section of this course are now available as an online publication:  [*Topics in Fluid Dynamics*](/courses/res-12-001-topics-in-fluid-dynamics-fall-2023/).
 
 KC04 = Kundu, P. K., and I. M. Cohen. *Fluid Mechanics*. 3rd ed. New York: Elsevier Academic Press, 2004. ISBN: 9780121782535.    
 CR94 = Cushman-Roisin, B. *Introduction to Geophysical Fluid Dynamics*. New York: Prentice Hall, 1994. ISBN: 9780133533019.
